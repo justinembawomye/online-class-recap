@@ -11,3 +11,13 @@ h1{
 .btn-info{
     background-color: pink;
 }
+
+.row{
+    margin-bottom: 20px;
+    
+}
+
+.card{
+    background-color: #ddd;
+    
+}
